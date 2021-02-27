@@ -1,5 +1,5 @@
-import java.util.Scanner;
-import java.util.Random;
+import java.util.Scanner; // original draft of guess my number
+import java.util.Random; // Does not return number of guesses
 
 class Main {
   public static void main(String[] args) {
