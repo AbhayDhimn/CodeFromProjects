@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // Tells you whether a number is positive, negative, or zero
 
 class Main {
   public static void main(String[] args) {
