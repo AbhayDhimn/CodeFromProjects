@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // Uses the pythagorean theorem to tell what type of triangle a triangle is, given the measurements of the sides
 
 class Main {
   public static void main(String[] args) {
